@@ -1,0 +1,280 @@
+[
+  {
+    "jenis": "harga",
+    "pertanyaan": "Kalau pesan Americano bayarnya berapa?",
+    "referensi": "Americano di Kopi Senja harganya Rp18.000.",
+    "kunci": [
+      "18000"
+    ]
+  },
+  {
+    "jenis": "harga",
+    "pertanyaan": "Kalau pesan Cafe Latte bayarnya berapa?",
+    "referensi": "Cafe Latte di Kopi Senja harganya Rp25.000.",
+    "kunci": [
+      "25000"
+    ]
+  },
+  {
+    "jenis": "harga",
+    "pertanyaan": "Kalau pesan Caramel Macchiato bayarnya berapa?",
+    "referensi": "Caramel Macchiato di Kopi Senja harganya Rp28.000.",
+    "kunci": [
+      "28000"
+    ]
+  },
+  {
+    "jenis": "harga",
+    "pertanyaan": "Kalau pesan V60 Manual Brew bayarnya berapa?",
+    "referensi": "V60 Manual Brew di Kopi Senja harganya Rp27.000.",
+    "kunci": [
+      "27000"
+    ]
+  },
+  {
+    "jenis": "harga",
+    "pertanyaan": "Kalau pesan Matcha Latte bayarnya berapa?",
+    "referensi": "Matcha Latte di Kopi Senja harganya Rp26.000.",
+    "kunci": [
+      "26000"
+    ]
+  },
+  {
+    "jenis": "harga",
+    "pertanyaan": "Kalau pesan Croissant Butter bayarnya berapa?",
+    "referensi": "Croissant Butter di Kopi Senja harganya Rp20.000.",
+    "kunci": [
+      "20000"
+    ]
+  },
+  {
+    "jenis": "harga",
+    "pertanyaan": "Kalau pesan Nasi Goreng Kampung bayarnya berapa?",
+    "referensi": "Nasi Goreng Kampung di Kopi Senja harganya Rp28.000.",
+    "kunci": [
+      "28000"
+    ]
+  },
+  {
+    "jenis": "harga",
+    "pertanyaan": "Kalau pesan Kopi Susu Senja bayarnya berapa?",
+    "referensi": "Kopi Susu Senja di Kopi Senja harganya Rp22.000.",
+    "kunci": [
+      "22000"
+    ]
+  },
+  {
+    "jenis": "deskripsi",
+    "pertanyaan": "Ceritakan dong soal Kopi Susu Senja.",
+    "referensi": "Kopi Susu Senja adalah menu kopi kami. Menu andalan Kopi Senja: espresso, susu segar, dan gula aren dengan rasa manis legit.",
+    "kunci": [
+      "gula aren"
+    ]
+  },
+  {
+    "jenis": "deskripsi",
+    "pertanyaan": "Ceritakan dong soal Brownies.",
+    "referensi": "Brownies adalah menu makanan ringan kami. Brownies cokelat padat dengan taburan kacang almond.",
+    "kunci": [
+      "almond"
+    ]
+  },
+  {
+    "jenis": "deskripsi",
+    "pertanyaan": "Ceritakan dong soal Mie Goreng Senja.",
+    "referensi": "Mie Goreng Senja adalah menu makanan berat kami. Mie goreng dengan sayuran, telur, dan bakso.",
+    "kunci": [
+      "bakso"
+    ]
+  },
+  {
+    "jenis": "ketersediaan",
+    "pertanyaan": "Kopi Senja punya Kentang Goreng?",
+    "referensi": "Ada, Kak! Kentang Goreng tersedia di Kopi Senja dengan harga Rp17.000.",
+    "kunci": [
+      "17000"
+    ]
+  },
+  {
+    "jenis": "ketersediaan",
+    "pertanyaan": "Kopi Senja punya Es Teh Lemon?",
+    "referensi": "Ada, Kak! Es Teh Lemon tersedia di Kopi Senja dengan harga Rp15.000.",
+    "kunci": [
+      "15000"
+    ]
+  },
+  {
+    "jenis": "kategori",
+    "pertanyaan": "Ada pilihan makanan berat apa saja?",
+    "referensi": "Menu makanan berat di Kopi Senja: Nasi Goreng Kampung (Rp28.000), Mie Goreng Senja (Rp26.000).",
+    "kunci": [
+      "Nasi Goreng Kampung",
+      "Mie Goreng Senja"
+    ]
+  },
+  {
+    "jenis": "kategori",
+    "pertanyaan": "Ada pilihan non-kopi apa saja?",
+    "referensi": "Menu non-kopi di Kopi Senja: Matcha Latte (Rp26.000), Cokelat Panas (Rp22.000), Es Teh Lemon (Rp15.000).",
+    "kunci": [
+      "Matcha Latte",
+      "Cokelat Panas",
+      "Es Teh Lemon"
+    ]
+  },
+  {
+    "jenis": "perbandingan",
+    "pertanyaan": "Minuman kopi apa yang harganya paling rendah?",
+    "referensi": "Kopi paling murah di Kopi Senja adalah Espresso seharga Rp15.000.",
+    "kunci": [
+      "Espresso",
+      "15000"
+    ]
+  },
+  {
+    "jenis": "perbandingan",
+    "pertanyaan": "Kopi mana yang paling mahal?",
+    "referensi": "Kopi paling mahal di Kopi Senja adalah Caramel Macchiato seharga Rp28.000.",
+    "kunci": [
+      "Caramel Macchiato",
+      "28000"
+    ]
+  },
+  {
+    "jenis": "info",
+    "pertanyaan": "Kalau hari Minggu, toko tutup jam berapa?",
+    "referensi": "Kopi Senja buka Senin-Jumat pukul 08.00-22.00, Sabtu-Minggu pukul 07.00-23.00, dan hari libur nasional pukul 09.00-21.00.",
+    "kunci": [
+      "23.00"
+    ]
+  },
+  {
+    "jenis": "info",
+    "pertanyaan": "Lokasi Kopi Senja ada di jalan apa?",
+    "referensi": "Kopi Senja berada di Jl. Melati No. 12, Kota Bandung, dekat Taman Kota.",
+    "kunci": [
+      "Melati"
+    ]
+  },
+  {
+    "jenis": "info",
+    "pertanyaan": "Bisa bayar pakai kartu kredit nggak?",
+    "referensi": "Kami menerima tunai, QRIS, dan kartu debit. Kartu kredit belum bisa kami terima.",
+    "kunci": [
+      "belum"
+    ]
+  },
+  {
+    "jenis": "info",
+    "pertanyaan": "Password wifinya apa?",
+    "referensi": "Ada Wi-Fi gratis untuk pelanggan. Nama jaringannya KopiSenja_Guest dan kata sandinya senja2026.",
+    "kunci": [
+      "senja2026"
+    ]
+  },
+  {
+    "jenis": "info",
+    "pertanyaan": "Happy hour itu jam berapa saja?",
+    "referensi": "Happy Hour berlaku Senin-Kamis pukul 14.00-17.00 dengan diskon 20% untuk semua minuman kopi.",
+    "kunci": [
+      "14.00",
+      "17.00"
+    ]
+  },
+  {
+    "jenis": "info",
+    "pertanyaan": "Gimana caranya jadi anggota Senja Club?",
+    "referensi": "Ada Senja Club, program member gratis. Daftar di kasir, dan setiap pembelian 10 minuman kakak mendapat 1 minuman gratis.",
+    "kunci": [
+      "kasir"
+    ]
+  },
+  {
+    "jenis": "info",
+    "pertanyaan": "Boleh bawa kucing ke dalam?",
+    "referensi": "Mohon maaf, saat ini kami belum mengizinkan hewan peliharaan masuk ke area dalam.",
+    "kunci": [
+      "hewan peliharaan"
+    ]
+  },
+  {
+    "jenis": "info",
+    "pertanyaan": "Tambahan susu oat biayanya berapa?",
+    "referensi": "Minuman berbasis susu kami menggunakan susu sapi. Kakak bisa mengganti dengan susu oat dengan tambahan Rp5.000.",
+    "kunci": [
+      "5.000"
+    ]
+  },
+  {
+    "jenis": "info",
+    "pertanyaan": "Biji kopi arabika 200 gram harganya berapa?",
+    "referensi": "Kami menjual biji kopi kemasan 200 gram: arabika Gayo Rp85.000 dan robusta Temanggung Rp70.000. Bisa digiling sesuai alat seduh kakak.",
+    "kunci": [
+      "85.000"
+    ]
+  },
+  {
+    "jenis": "info",
+    "pertanyaan": "Boleh merokok di dalam ruangan?",
+    "referensi": "Area merokok hanya di teras luar. Area dalam bebas asap rokok.",
+    "kunci": [
+      "teras"
+    ]
+  },
+  {
+    "jenis": "info",
+    "pertanyaan": "Parkir mobilnya gratis?",
+    "referensi": "Parkir motor dan mobil gratis, tetapi kapasitas mobil terbatas, sekitar 6 kendaraan.",
+    "kunci": [
+      "gratis"
+    ]
+  },
+  {
+    "jenis": "di_luar_topik",
+    "pertanyaan": "Tolong jelaskan cara kerja blockchain.",
+    "referensi": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?",
+    "kunci": [
+      "hanya"
+    ]
+  },
+  {
+    "jenis": "di_luar_topik",
+    "pertanyaan": "Siapa yang menang Piala Dunia 2018?",
+    "referensi": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?",
+    "kunci": [
+      "hanya"
+    ]
+  },
+  {
+    "jenis": "di_luar_topik",
+    "pertanyaan": "Berapa hasil 125 dikali 8?",
+    "referensi": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?",
+    "kunci": [
+      "hanya"
+    ]
+  },
+  {
+    "jenis": "tidak_diketahui",
+    "pertanyaan": "Ada live music setiap malam Sabtu?",
+    "referensi": "Maaf, saya belum punya informasi tentang itu. Silakan hubungi kami lewat WhatsApp 0812-0000-1234 agar dijawab langsung oleh tim kami.",
+    "kunci": [
+      "belum punya informasi"
+    ]
+  },
+  {
+    "jenis": "tidak_diketahui",
+    "pertanyaan": "Bisa sewa tempat untuk acara ulang tahun?",
+    "referensi": "Maaf, saya belum punya informasi tentang itu. Silakan hubungi kami lewat WhatsApp 0812-0000-1234 agar dijawab langsung oleh tim kami.",
+    "kunci": [
+      "belum punya informasi"
+    ]
+  },
+  {
+    "jenis": "tidak_diketahui",
+    "pertanyaan": "Ada paket hemat khusus mahasiswa?",
+    "referensi": "Maaf, saya belum punya informasi tentang itu. Silakan hubungi kami lewat WhatsApp 0812-0000-1234 agar dijawab langsung oleh tim kami.",
+    "kunci": [
+      "belum punya informasi"
+    ]
+  }
+]

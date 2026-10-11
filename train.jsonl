@@ -1,0 +1,478 @@
+{"instruction": "Rasa Cokelat Panas seperti apa?", "output": "Cokelat Panas adalah menu non-kopi kami. Cokelat pekat dengan susu panas dan sedikit krim."}
+{"instruction": "Berapa harga Cokelat Panas? Makasih.", "output": "Cokelat Panas di Kopi Senja harganya Rp22.000."}
+{"instruction": "Halo, Tersedia lahan parkir mobil? Makasih.", "output": "Parkir motor dan mobil gratis, tetapi kapasitas mobil terbatas, sekitar 6 kendaraan."}
+{"instruction": "Berapa harga Croissant Butter?", "output": "Croissant Butter di Kopi Senja harganya Rp20.000."}
+{"instruction": "Smoking area di mana?", "output": "Area merokok hanya di teras luar. Area dalam bebas asap rokok."}
+{"instruction": "Halo, Cafe Latte harganya berapa?", "output": "Cafe Latte di Kopi Senja harganya Rp25.000."}
+{"instruction": "Di sini jual Espresso nggak?", "output": "Ada, Kak! Espresso tersedia di Kopi Senja dengan harga Rp15.000."}
+{"instruction": "Min, Semua menu aman untuk muslim? Thanks ya.", "output": "Seluruh menu kami halal dan tidak mengandung alkohol maupun babi."}
+{"instruction": "Es Teh Lemon harganya berapa?", "output": "Es Teh Lemon di Kopi Senja harganya Rp15.000."}
+{"instruction": "Bagaimana cara membuat website?", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Min, Caramel Macchiato itu apa? Thanks ya.", "output": "Caramel Macchiato adalah menu kopi kami. Latte dengan sirup vanila dan saus karamel di atasnya."}
+{"instruction": "Harga Matcha Latte di sini berapa ya?", "output": "Matcha Latte di Kopi Senja harganya Rp26.000."}
+{"instruction": "Berapa harga Kentang Goreng?", "output": "Kentang Goreng di Kopi Senja harganya Rp17.000."}
+{"instruction": "Roti Bakar Cokelat Keju itu apa?", "output": "Roti Bakar Cokelat Keju adalah menu makanan ringan kami. Roti tebal yang dibakar dengan selai cokelat dan parutan keju."}
+{"instruction": "Kalau datang ramai-ramai perlu pesan tempat dulu?", "output": "Reservasi tersedia untuk minimal 6 orang lewat WhatsApp 0812-0000-1234, paling lambat sehari sebelumnya. Untuk kurang dari 6 orang, kami melayani tanpa reservasi sesuai ketersediaan tempat."}
+{"instruction": "Min, Jelaskan tentang Kentang Goreng.", "output": "Kentang Goreng adalah menu makanan ringan kami. Kentang goreng renyah dengan saus sambal atau mayones."}
+{"instruction": "Apakah menunya halal?", "output": "Seluruh menu kami halal dan tidak mengandung alkohol maupun babi."}
+{"instruction": "Kak, Kapan kalian buka dan tutup? Makasih.", "output": "Kopi Senja buka Senin-Jumat pukul 08.00-22.00, Sabtu-Minggu pukul 07.00-23.00, dan hari libur nasional pukul 09.00-21.00."}
+{"instruction": "Min, Roti Bakar Cokelat Keju itu apa? Thanks ya.", "output": "Roti Bakar Cokelat Keju adalah menu makanan ringan kami. Roti tebal yang dibakar dengan selai cokelat dan parutan keju."}
+{"instruction": "Kalau saya tidak mau terlalu manis bagaimana?", "output": "Bisa, Kak. Tingkat kemanisan dapat diatur: normal, less sugar, atau tanpa gula. Sebutkan saja saat memesan."}
+{"instruction": "Bisa reservasi tempat?", "output": "Reservasi tersedia untuk minimal 6 orang lewat WhatsApp 0812-0000-1234, paling lambat sehari sebelumnya. Untuk kurang dari 6 orang, kami melayani tanpa reservasi sesuai ketersediaan tempat."}
+{"instruction": "Min, Berapa harga Roti Bakar Cokelat Keju?", "output": "Roti Bakar Cokelat Keju di Kopi Senja harganya Rp18.000."}
+{"instruction": "Min, Smoking area di mana?", "output": "Area merokok hanya di teras luar. Area dalam bebas asap rokok."}
+{"instruction": "Min, Apakah menyediakan jasa katering kantor?", "output": "Maaf, saya belum punya informasi tentang itu. Silakan hubungi kami lewat WhatsApp 0812-0000-1234 agar dijawab langsung oleh tim kami."}
+{"instruction": "Permisi, Di sini jual Mie Goreng Senja nggak? Makasih.", "output": "Ada, Kak! Mie Goreng Senja tersedia di Kopi Senja dengan harga Rp26.000."}
+{"instruction": "Siapa juara Piala Dunia 2022?", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Tersedia lahan parkir mobil?", "output": "Parkir motor dan mobil gratis, tetapi kapasitas mobil terbatas, sekitar 6 kendaraan."}
+{"instruction": "Min, Di sini jual Brownies nggak? Thanks ya.", "output": "Ada, Kak! Brownies tersedia di Kopi Senja dengan harga Rp20.000."}
+{"instruction": "Harga Americano di sini berapa ya?", "output": "Americano di Kopi Senja harganya Rp18.000."}
+{"instruction": "Permisi, Di sini jual Caramel Macchiato nggak? Thanks ya.", "output": "Ada, Kak! Caramel Macchiato tersedia di Kopi Senja dengan harga Rp28.000."}
+{"instruction": "Bisa pesan antar?", "output": "Pesan antar tersedia lewat aplikasi ojek online dalam radius 5 km dari toko, pukul 10.00-21.00."}
+{"instruction": "Rasa Americano seperti apa?", "output": "Americano adalah menu kopi kami. Espresso yang ditambah air panas atau es, rasanya ringan dan bersih."}
+{"instruction": "Cappuccino harganya berapa?", "output": "Cappuccino di Kopi Senja harganya Rp24.000."}
+{"instruction": "Kalau minuman tidak sesuai bisa diganti?", "output": "Jika pesanan salah atau tidak sesuai, beri tahu kasir atau pelayan dan kami akan menggantinya tanpa biaya tambahan."}
+{"instruction": "Permisi, Rasa V60 Manual Brew seperti apa? Thanks ya.", "output": "V60 Manual Brew adalah menu kopi kami. Seduhan manual V60 dari biji single origin pilihan barista, rasanya bersih dan aromatik."}
+{"instruction": "Kak, Ada promo happy hour?", "output": "Happy Hour berlaku Senin-Kamis pukul 14.00-17.00 dengan diskon 20% untuk semua minuman kopi."}
+{"instruction": "Harga Brownies di sini berapa ya?", "output": "Brownies di Kopi Senja harganya Rp20.000."}
+{"instruction": "Tolong buatkan kode Python untuk kalkulator.", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Hai Thanks ya.", "output": "Hai, Kak! Selamat datang di Kopi Senja. Mau tanya menu atau promo hari ini?"}
+{"instruction": "Cappuccino itu apa?", "output": "Cappuccino adalah menu kopi kami. Espresso dengan susu panas dan busa susu yang tebal."}
+{"instruction": "Kak, Harga Kopi Susu Senja di sini berapa ya? Makasih.", "output": "Kopi Susu Senja di Kopi Senja harganya Rp22.000."}
+{"instruction": "Permisi, Es Kopi Gula Aren itu apa? Makasih.", "output": "Es Kopi Gula Aren adalah menu kopi kami. Kopi dingin dengan sedikit susu dan gula aren cair, lebih ringan daripada Kopi Susu Senja."}
+{"instruction": "Cafe Latte harganya berapa?", "output": "Cafe Latte di Kopi Senja harganya Rp25.000."}
+{"instruction": "Kak, Menu apa yang mengandung alergen?", "output": "Brownies mengandung kacang almond, jadi sebaiknya dihindari oleh yang alergi kacang. Minuman berbasis susu mengandung susu sapi. Beri tahu kasir jika ada alergi agar kami bantu pilihkan menu."}
+{"instruction": "Buka jam berapa?", "output": "Kopi Senja buka Senin-Jumat pukul 08.00-22.00, Sabtu-Minggu pukul 07.00-23.00, dan hari libur nasional pukul 09.00-21.00."}
+{"instruction": "Berapa harga Cafe Latte?", "output": "Cafe Latte di Kopi Senja harganya Rp25.000."}
+{"instruction": "Halo, Jelaskan tentang Nasi Goreng Kampung. Thanks ya.", "output": "Nasi Goreng Kampung adalah menu makanan berat kami. Nasi goreng bumbu rempah dengan telur dan ayam suwir."}
+{"instruction": "Ada pilihan susu nabati?", "output": "Minuman berbasis susu kami menggunakan susu sapi. Kakak bisa mengganti dengan susu oat dengan tambahan Rp5.000."}
+{"instruction": "Kalau bawa kendaraan parkirnya di mana?", "output": "Parkir motor dan mobil gratis, tetapi kapasitas mobil terbatas, sekitar 6 kendaraan."}
+{"instruction": "Min, Apa itu kecerdasan buatan? Makasih.", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Min, Promo untuk minuman kopi apa ya?", "output": "Happy Hour berlaku Senin-Kamis pukul 14.00-17.00 dengan diskon 20% untuk semua minuman kopi."}
+{"instruction": "Kak, Di sini jual Americano nggak?", "output": "Ada, Kak! Americano tersedia di Kopi Senja dengan harga Rp18.000."}
+{"instruction": "Apakah ada Espresso?", "output": "Ada, Kak! Espresso tersedia di Kopi Senja dengan harga Rp15.000."}
+{"instruction": "Rasa Mie Goreng Senja seperti apa?", "output": "Mie Goreng Senja adalah menu makanan berat kami. Mie goreng dengan sayuran, telur, dan bakso."}
+{"instruction": "Halo, Apakah ada V60 Manual Brew?", "output": "Ada, Kak! V60 Manual Brew tersedia di Kopi Senja dengan harga Rp27.000."}
+{"instruction": "Permisi, Berapa harga Espresso?", "output": "Espresso di Kopi Senja harganya Rp15.000."}
+{"instruction": "Alamat Kopi Senja di mana?", "output": "Kopi Senja berada di Jl. Melati No. 12, Kota Bandung, dekat Taman Kota."}
+{"instruction": "Jelaskan tentang Kopi Susu Senja.", "output": "Kopi Susu Senja adalah menu kopi kami. Menu andalan Kopi Senja: espresso, susu segar, dan gula aren dengan rasa manis legit."}
+{"instruction": "Di sini jual Croissant Butter nggak?", "output": "Ada, Kak! Croissant Butter tersedia di Kopi Senja dengan harga Rp20.000."}
+{"instruction": "Ukuran large tambah berapa?", "output": "Minuman tersedia ukuran regular dan large. Ukuran large tambah Rp5.000, kecuali Espresso dan V60 yang hanya tersedia ukuran regular."}
+{"instruction": "Parkir motor gratis? Makasih.", "output": "Parkir motor dan mobil gratis, tetapi kapasitas mobil terbatas, sekitar 6 kendaraan."}
+{"instruction": "Kentang Goreng itu apa? Makasih.", "output": "Kentang Goreng adalah menu makanan ringan kami. Kentang goreng renyah dengan saus sambal atau mayones."}
+{"instruction": "Kak, Mau tanya, Roti Bakar Cokelat Keju berapaan? Thanks ya.", "output": "Roti Bakar Cokelat Keju di Kopi Senja harganya Rp18.000."}
+{"instruction": "Halo, Tutup jam berapa?", "output": "Kopi Senja buka Senin-Jumat pukul 08.00-22.00, Sabtu-Minggu pukul 07.00-23.00, dan hari libur nasional pukul 09.00-21.00."}
+{"instruction": "Espresso harganya berapa? Makasih.", "output": "Espresso di Kopi Senja harganya Rp15.000."}
+{"instruction": "Kentang Goreng harganya berapa?", "output": "Kentang Goreng di Kopi Senja harganya Rp17.000."}
+{"instruction": "Permisi, Di sini jual Cappuccino nggak? Makasih.", "output": "Ada, Kak! Cappuccino tersedia di Kopi Senja dengan harga Rp24.000."}
+{"instruction": "Ada menu yang mengandung alkohol atau babi?", "output": "Seluruh menu kami halal dan tidak mengandung alkohol maupun babi."}
+{"instruction": "Halo, Bisa beli biji kopi untuk dibawa pulang?", "output": "Kami menjual biji kopi kemasan 200 gram: arabika Gayo Rp85.000 dan robusta Temanggung Rp70.000. Bisa digiling sesuai alat seduh kakak."}
+{"instruction": "Min, Jelaskan tentang Cappuccino. Makasih.", "output": "Cappuccino adalah menu kopi kami. Espresso dengan susu panas dan busa susu yang tebal."}
+{"instruction": "Halo, Harga Kentang Goreng di sini berapa ya? Thanks ya.", "output": "Kentang Goreng di Kopi Senja harganya Rp17.000."}
+{"instruction": "Fasilitas apa saja yang ada?", "output": "Tersedia toilet dan musala kecil di dalam toko."}
+{"instruction": "Permisi, Americano harganya berapa? Thanks ya.", "output": "Americano di Kopi Senja harganya Rp18.000."}
+{"instruction": "Mau tanya, Cafe Latte berapaan? Thanks ya.", "output": "Cafe Latte di Kopi Senja harganya Rp25.000."}
+{"instruction": "Kopi Senja muat berapa orang?", "output": "Kopi Senja punya sekitar 40 kursi, terbagi di area dalam ber-AC dan area teras."}
+{"instruction": "Daftar makanan berat di sini apa aja?", "output": "Menu makanan berat di Kopi Senja: Nasi Goreng Kampung (Rp28.000), Mie Goreng Senja (Rp26.000)."}
+{"instruction": "Mie Goreng Senja harganya berapa?", "output": "Mie Goreng Senja di Kopi Senja harganya Rp26.000."}
+{"instruction": "Mau tanya, Es Teh Lemon berapaan?", "output": "Es Teh Lemon di Kopi Senja harganya Rp15.000."}
+{"instruction": "Di sini jual Mie Goreng Senja nggak?", "output": "Ada, Kak! Mie Goreng Senja tersedia di Kopi Senja dengan harga Rp26.000."}
+{"instruction": "Apakah ada Caramel Macchiato?", "output": "Ada, Kak! Caramel Macchiato tersedia di Kopi Senja dengan harga Rp28.000."}
+{"instruction": "Es Teh Lemon itu apa?", "output": "Es Teh Lemon adalah menu non-kopi kami. Teh dingin dengan perasan lemon segar."}
+{"instruction": "Permisi, Berapa harga Cappuccino?", "output": "Cappuccino di Kopi Senja harganya Rp24.000."}
+{"instruction": "Halo, Ada menu yang mengandung alkohol atau babi? Makasih.", "output": "Seluruh menu kami halal dan tidak mengandung alkohol maupun babi."}
+{"instruction": "Apakah ada Roti Bakar Cokelat Keju? Thanks ya.", "output": "Ada, Kak! Roti Bakar Cokelat Keju tersedia di Kopi Senja dengan harga Rp18.000."}
+{"instruction": "Ada Instagram atau kontak yang bisa dihubungi? Makasih.", "output": "Kakak bisa menghubungi kami lewat WhatsApp di 0812-0000-1234 atau Instagram @kopisenja.id."}
+{"instruction": "Nasi Goreng Kampung itu apa?", "output": "Nasi Goreng Kampung adalah menu makanan berat kami. Nasi goreng bumbu rempah dengan telur dan ayam suwir."}
+{"instruction": "Permisi, Kalau minuman tidak sesuai bisa diganti? Makasih.", "output": "Jika pesanan salah atau tidak sesuai, beri tahu kasir atau pelayan dan kami akan menggantinya tanpa biaya tambahan."}
+{"instruction": "Permisi, Harga Roti Bakar Cokelat Keju di sini berapa ya? Thanks ya.", "output": "Roti Bakar Cokelat Keju di Kopi Senja harganya Rp18.000."}
+{"instruction": "Mie Goreng Senja itu apa?", "output": "Mie Goreng Senja adalah menu makanan berat kami. Mie goreng dengan sayuran, telur, dan bakso."}
+{"instruction": "Halo, Mau tanya, Mie Goreng Senja berapaan?", "output": "Mie Goreng Senja di Kopi Senja harganya Rp26.000."}
+{"instruction": "Selamat siang", "output": "Selamat siang, Kak! Selamat datang di Kopi Senja. Ada yang bisa saya bantu?"}
+{"instruction": "Berapa harga Caramel Macchiato?", "output": "Caramel Macchiato di Kopi Senja harganya Rp28.000."}
+{"instruction": "Jelaskan tentang Americano.", "output": "Americano adalah menu kopi kami. Espresso yang ditambah air panas atau es, rasanya ringan dan bersih."}
+{"instruction": "Metode pembayaran apa saja yang diterima? Thanks ya.", "output": "Kami menerima tunai, QRIS, dan kartu debit. Kartu kredit belum bisa kami terima."}
+{"instruction": "Permisi, Selamat siang Makasih.", "output": "Selamat siang, Kak! Selamat datang di Kopi Senja. Ada yang bisa saya bantu?"}
+{"instruction": "Nama dan sandi wifi Kopi Senja apa?", "output": "Ada Wi-Fi gratis untuk pelanggan. Nama jaringannya KopiSenja_Guest dan kata sandinya senja2026."}
+{"instruction": "Apakah anjing atau kucing boleh masuk?", "output": "Mohon maaf, saat ini kami belum mengizinkan hewan peliharaan masuk ke area dalam."}
+{"instruction": "Apakah area dalam bebas rokok?", "output": "Area merokok hanya di teras luar. Area dalam bebas asap rokok."}
+{"instruction": "Kak, Apakah area dalam bebas rokok? Makasih.", "output": "Area merokok hanya di teras luar. Area dalam bebas asap rokok."}
+{"instruction": "Permisi, Jelaskan tentang V60 Manual Brew.", "output": "V60 Manual Brew adalah menu kopi kami. Seduhan manual V60 dari biji single origin pilihan barista, rasanya bersih dan aromatik."}
+{"instruction": "Halo, Harga Caramel Macchiato di sini berapa ya? Makasih.", "output": "Caramel Macchiato di Kopi Senja harganya Rp28.000."}
+{"instruction": "Min, Selamat pagi Thanks ya.", "output": "Selamat pagi, Kak! Selamat datang di Kopi Senja. Ada yang bisa saya bantu?"}
+{"instruction": "Apa saja menu makanan ringan?", "output": "Menu makanan ringan di Kopi Senja: Croissant Butter (Rp20.000), Roti Bakar Cokelat Keju (Rp18.000), Kentang Goreng (Rp17.000), Brownies (Rp20.000)."}
+{"instruction": "Kak, Jelaskan tentang Croissant Butter. Thanks ya.", "output": "Croissant Butter adalah menu makanan ringan kami. Croissant renyah dengan mentega, dipanggang setiap pagi."}
+{"instruction": "Kak, Ada tempat salat? Makasih.", "output": "Tersedia toilet dan musala kecil di dalam toko."}
+{"instruction": "Daftar makanan ringan di sini apa aja? Makasih.", "output": "Menu makanan ringan di Kopi Senja: Croissant Butter (Rp20.000), Roti Bakar Cokelat Keju (Rp18.000), Kentang Goreng (Rp17.000), Brownies (Rp20.000)."}
+{"instruction": "Jelaskan tentang Caramel Macchiato.", "output": "Caramel Macchiato adalah menu kopi kami. Latte dengan sirup vanila dan saus karamel di atasnya."}
+{"instruction": "Jelaskan tentang Es Teh Lemon.", "output": "Es Teh Lemon adalah menu non-kopi kami. Teh dingin dengan perasan lemon segar."}
+{"instruction": "Mau tanya, Croissant Butter berapaan?", "output": "Croissant Butter di Kopi Senja harganya Rp20.000."}
+{"instruction": "Apakah ada susu oat?", "output": "Minuman berbasis susu kami menggunakan susu sapi. Kakak bisa mengganti dengan susu oat dengan tambahan Rp5.000."}
+{"instruction": "Kak, Di sini jual Cokelat Panas nggak? Thanks ya.", "output": "Ada, Kak! Cokelat Panas tersedia di Kopi Senja dengan harga Rp22.000."}
+{"instruction": "Ada menu vegan?", "output": "Untuk pilihan tanpa produk hewani, kakak bisa memilih Espresso, Americano, V60 Manual Brew, atau Es Teh Lemon. Menu lain dengan susu bisa diganti susu oat dengan tambahan Rp5.000."}
+{"instruction": "Halo, Kopi apa yang paling murah? Makasih.", "output": "Kopi paling murah di Kopi Senja adalah Espresso seharga Rp15.000."}
+{"instruction": "Halo, Di sini jual Kopi Susu Senja nggak?", "output": "Ada, Kak! Kopi Susu Senja tersedia di Kopi Senja dengan harga Rp22.000."}
+{"instruction": "Cafe Latte itu apa?", "output": "Cafe Latte adalah menu kopi kami. Espresso dengan susu steam yang lembut, rasanya creamy."}
+{"instruction": "Apakah ada colokan listrik?", "output": "Tersedia colokan listrik di hampir semua meja, terutama di area dalam dan dekat jendela, jadi nyaman untuk bekerja atau mengerjakan tugas."}
+{"instruction": "Permisi, Tersedia toilet di dalam?", "output": "Tersedia toilet dan musala kecil di dalam toko."}
+{"instruction": "Min, Minuman ada ukuran regular dan large?", "output": "Minuman tersedia ukuran regular dan large. Ukuran large tambah Rp5.000, kecuali Espresso dan V60 yang hanya tersedia ukuran regular."}
+{"instruction": "Nasi Goreng Kampung harganya berapa?", "output": "Nasi Goreng Kampung di Kopi Senja harganya Rp28.000."}
+{"instruction": "Permisi, Jual biji kopi? Makasih.", "output": "Kami menjual biji kopi kemasan 200 gram: arabika Gayo Rp85.000 dan robusta Temanggung Rp70.000. Bisa digiling sesuai alat seduh kakak."}
+{"instruction": "Halo, Wifi-nya gratis nggak?", "output": "Ada Wi-Fi gratis untuk pelanggan. Nama jaringannya KopiSenja_Guest dan kata sandinya senja2026."}
+{"instruction": "Mau tanya, Roti Bakar Cokelat Keju berapaan?", "output": "Roti Bakar Cokelat Keju di Kopi Senja harganya Rp18.000."}
+{"instruction": "Mau tanya, Kentang Goreng berapaan? Thanks ya.", "output": "Kentang Goreng di Kopi Senja harganya Rp17.000."}
+{"instruction": "Kak, Bagaimana cara mengatasi sakit kepala? Makasih.", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Min, Pet friendly nggak? Thanks ya.", "output": "Mohon maaf, saat ini kami belum mengizinkan hewan peliharaan masuk ke area dalam."}
+{"instruction": "Ada menu musiman bulan ini? Thanks ya.", "output": "Maaf, saya belum punya informasi tentang itu. Silakan hubungi kami lewat WhatsApp 0812-0000-1234 agar dijawab langsung oleh tim kami."}
+{"instruction": "Berapa harga Cokelat Panas?", "output": "Cokelat Panas di Kopi Senja harganya Rp22.000."}
+{"instruction": "Ada kartu member?", "output": "Ada Senja Club, program member gratis. Daftar di kasir, dan setiap pembelian 10 minuman kakak mendapat 1 minuman gratis."}
+{"instruction": "Ada menu musiman bulan ini?", "output": "Maaf, saya belum punya informasi tentang itu. Silakan hubungi kami lewat WhatsApp 0812-0000-1234 agar dijawab langsung oleh tim kami."}
+{"instruction": "Semua menu aman untuk muslim?", "output": "Seluruh menu kami halal dan tidak mengandung alkohol maupun babi."}
+{"instruction": "Bagaimana cara pesan online?", "output": "Pesan antar tersedia lewat aplikasi ojek online dalam radius 5 km dari toko, pukul 10.00-21.00."}
+{"instruction": "Kopi apa yang paling murah?", "output": "Kopi paling murah di Kopi Senja adalah Espresso seharga Rp15.000."}
+{"instruction": "Lokasi tokonya di mana ya?", "output": "Kopi Senja berada di Jl. Melati No. 12, Kota Bandung, dekat Taman Kota."}
+{"instruction": "Caramel Macchiato harganya berapa?", "output": "Caramel Macchiato di Kopi Senja harganya Rp28.000."}
+{"instruction": "Halo, Kopi Senja ada di daerah mana? Thanks ya.", "output": "Kopi Senja berada di Jl. Melati No. 12, Kota Bandung, dekat Taman Kota."}
+{"instruction": "Pet friendly nggak?", "output": "Mohon maaf, saat ini kami belum mengizinkan hewan peliharaan masuk ke area dalam."}
+{"instruction": "Halo, Mau tanya, Cokelat Panas berapaan?", "output": "Cokelat Panas di Kopi Senja harganya Rp22.000."}
+{"instruction": "Promo untuk minuman kopi apa ya?", "output": "Happy Hour berlaku Senin-Kamis pukul 14.00-17.00 dengan diskon 20% untuk semua minuman kopi."}
+{"instruction": "Kak, Bagaimana cara booking meja? Thanks ya.", "output": "Reservasi tersedia untuk minimal 6 orang lewat WhatsApp 0812-0000-1234, paling lambat sehari sebelumnya. Untuk kurang dari 6 orang, kami melayani tanpa reservasi sesuai ketersediaan tempat."}
+{"instruction": "Bisa bawa anabul ke sini?", "output": "Mohon maaf, saat ini kami belum mengizinkan hewan peliharaan masuk ke area dalam."}
+{"instruction": "Bayarnya di awal atau di akhir?", "output": "Pesan dan bayar di kasir terlebih dahulu, lalu pesanan akan diantar ke meja kakak."}
+{"instruction": "Minta kontak admin dong.", "output": "Kakak bisa menghubungi kami lewat WhatsApp di 0812-0000-1234 atau Instagram @kopisenja.id."}
+{"instruction": "Halo, Jelaskan teori relativitas.", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "V60 Manual Brew itu apa?", "output": "V60 Manual Brew adalah menu kopi kami. Seduhan manual V60 dari biji single origin pilihan barista, rasanya bersih dan aromatik."}
+{"instruction": "Rasa Brownies seperti apa?", "output": "Brownies adalah menu makanan ringan kami. Brownies cokelat padat dengan taburan kacang almond."}
+{"instruction": "Permisi, Kopi termahal di sini apa?", "output": "Kopi paling mahal di Kopi Senja adalah Caramel Macchiato seharga Rp28.000."}
+{"instruction": "Permisi, Cocok buat kerja atau ngerjain tugas?", "output": "Tersedia colokan listrik di hampir semua meja, terutama di area dalam dan dekat jendela, jadi nyaman untuk bekerja atau mengerjakan tugas."}
+{"instruction": "Permisi, Mau tanya, Es Kopi Gula Aren berapaan?", "output": "Es Kopi Gula Aren di Kopi Senja harganya Rp20.000."}
+{"instruction": "Kopi Susu Senja harganya berapa?", "output": "Kopi Susu Senja di Kopi Senja harganya Rp22.000."}
+{"instruction": "Berapa harga Es Kopi Gula Aren?", "output": "Es Kopi Gula Aren di Kopi Senja harganya Rp20.000."}
+{"instruction": "Halo, Bisa pesan ukuran besar? Thanks ya.", "output": "Minuman tersedia ukuran regular dan large. Ukuran large tambah Rp5.000, kecuali Espresso dan V60 yang hanya tersedia ukuran regular."}
+{"instruction": "Minuman apa yang tidak mengandung produk hewani?", "output": "Untuk pilihan tanpa produk hewani, kakak bisa memilih Espresso, Americano, V60 Manual Brew, atau Es Teh Lemon. Menu lain dengan susu bisa diganti susu oat dengan tambahan Rp5.000."}
+{"instruction": "Di sini jual Croissant Butter nggak? Thanks ya.", "output": "Ada, Kak! Croissant Butter tersedia di Kopi Senja dengan harga Rp20.000."}
+{"instruction": "Wifi-nya gratis nggak?", "output": "Ada Wi-Fi gratis untuk pelanggan. Nama jaringannya KopiSenja_Guest dan kata sandinya senja2026."}
+{"instruction": "Minuman ada ukuran regular dan large?", "output": "Minuman tersedia ukuran regular dan large. Ukuran large tambah Rp5.000, kecuali Espresso dan V60 yang hanya tersedia ukuran regular."}
+{"instruction": "Jelaskan tentang Mie Goreng Senja.", "output": "Mie Goreng Senja adalah menu makanan berat kami. Mie goreng dengan sayuran, telur, dan bakso."}
+{"instruction": "Siapa penemu lampu pijar? Thanks ya.", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Permisi, Bisa bawa anabul ke sini?", "output": "Mohon maaf, saat ini kami belum mengizinkan hewan peliharaan masuk ke area dalam."}
+{"instruction": "Brownies itu apa?", "output": "Brownies adalah menu makanan ringan kami. Brownies cokelat padat dengan taburan kacang almond."}
+{"instruction": "Mau tanya, Kopi Susu Senja berapaan? Thanks ya.", "output": "Kopi Susu Senja di Kopi Senja harganya Rp22.000."}
+{"instruction": "Harga Kentang Goreng di sini berapa ya?", "output": "Kentang Goreng di Kopi Senja harganya Rp17.000."}
+{"instruction": "Halo, Harga Cafe Latte di sini berapa ya?", "output": "Cafe Latte di Kopi Senja harganya Rp25.000."}
+{"instruction": "Halo, Boleh merokok di Kopi Senja? Makasih.", "output": "Area merokok hanya di teras luar. Area dalam bebas asap rokok."}
+{"instruction": "Kak, Apakah ada susu oat? Makasih.", "output": "Minuman berbasis susu kami menggunakan susu sapi. Kakak bisa mengganti dengan susu oat dengan tambahan Rp5.000."}
+{"instruction": "Rasa Cappuccino seperti apa?", "output": "Cappuccino adalah menu kopi kami. Espresso dengan susu panas dan busa susu yang tebal."}
+{"instruction": "Permisi, Matcha Latte itu apa?", "output": "Matcha Latte adalah menu non-kopi kami. Matcha dengan susu, bisa disajikan panas atau dingin."}
+{"instruction": "Halo, Ada diskon khusus untuk pelajar? Thanks ya.", "output": "Maaf, saya belum punya informasi tentang itu. Silakan hubungi kami lewat WhatsApp 0812-0000-1234 agar dijawab langsung oleh tim kami."}
+{"instruction": "Permisi, Mie Goreng Senja harganya berapa?", "output": "Mie Goreng Senja di Kopi Senja harganya Rp26.000."}
+{"instruction": "Min, Harga Mie Goreng Senja di sini berapa ya?", "output": "Mie Goreng Senja di Kopi Senja harganya Rp26.000."}
+{"instruction": "Apa saja menu non-kopi?", "output": "Menu non-kopi di Kopi Senja: Matcha Latte (Rp26.000), Cokelat Panas (Rp22.000), Es Teh Lemon (Rp15.000)."}
+{"instruction": "Halo, Berapa harga Mie Goreng Senja?", "output": "Mie Goreng Senja di Kopi Senja harganya Rp26.000."}
+{"instruction": "Apakah ada colokan listrik? Makasih.", "output": "Tersedia colokan listrik di hampir semua meja, terutama di area dalam dan dekat jendela, jadi nyaman untuk bekerja atau mengerjakan tugas."}
+{"instruction": "Halo, Apakah ada Cokelat Panas?", "output": "Ada, Kak! Cokelat Panas tersedia di Kopi Senja dengan harga Rp22.000."}
+{"instruction": "Permisi, Jelaskan tentang Roti Bakar Cokelat Keju.", "output": "Roti Bakar Cokelat Keju adalah menu makanan ringan kami. Roti tebal yang dibakar dengan selai cokelat dan parutan keju."}
+{"instruction": "Jelaskan tentang Roti Bakar Cokelat Keju.", "output": "Roti Bakar Cokelat Keju adalah menu makanan ringan kami. Roti tebal yang dibakar dengan selai cokelat dan parutan keju."}
+{"instruction": "Harga Cafe Latte di sini berapa ya?", "output": "Cafe Latte di Kopi Senja harganya Rp25.000."}
+{"instruction": "Bagaimana cara memesan di tempat?", "output": "Pesan dan bayar di kasir terlebih dahulu, lalu pesanan akan diantar ke meja kakak."}
+{"instruction": "Halo, Apakah ada Es Teh Lemon?", "output": "Ada, Kak! Es Teh Lemon tersedia di Kopi Senja dengan harga Rp15.000."}
+{"instruction": "Harga Americano di sini berapa ya? Thanks ya.", "output": "Americano di Kopi Senja harganya Rp18.000."}
+{"instruction": "Permisi, Jam operasional toko ini apa?", "output": "Kopi Senja buka Senin-Jumat pukul 08.00-22.00, Sabtu-Minggu pukul 07.00-23.00, dan hari libur nasional pukul 09.00-21.00."}
+{"instruction": "Rasa Kentang Goreng seperti apa? Thanks ya.", "output": "Kentang Goreng adalah menu makanan ringan kami. Kentang goreng renyah dengan saus sambal atau mayones."}
+{"instruction": "Halo Thanks ya.", "output": "Halo, Kak! Selamat datang di Kopi Senja. Ada yang bisa saya bantu soal menu, harga, atau jam buka?"}
+{"instruction": "Min, Cafe Latte itu apa? Makasih.", "output": "Cafe Latte adalah menu kopi kami. Espresso dengan susu steam yang lembut, rasanya creamy."}
+{"instruction": "Bisa bayar pakai QRIS?", "output": "Kami menerima tunai, QRIS, dan kartu debit. Kartu kredit belum bisa kami terima."}
+{"instruction": "Jelaskan tentang Cafe Latte.", "output": "Cafe Latte adalah menu kopi kami. Espresso dengan susu steam yang lembut, rasanya creamy."}
+{"instruction": "Apakah ada Cappuccino?", "output": "Ada, Kak! Cappuccino tersedia di Kopi Senja dengan harga Rp24.000."}
+{"instruction": "Kak, Bisa ngecas laptop di sini?", "output": "Tersedia colokan listrik di hampir semua meja, terutama di area dalam dan dekat jendela, jadi nyaman untuk bekerja atau mengerjakan tugas."}
+{"instruction": "Permisi, Jelaskan tentang Cafe Latte.", "output": "Cafe Latte adalah menu kopi kami. Espresso dengan susu steam yang lembut, rasanya creamy."}
+{"instruction": "Es Kopi Gula Aren itu apa?", "output": "Es Kopi Gula Aren adalah menu kopi kami. Kopi dingin dengan sedikit susu dan gula aren cair, lebih ringan daripada Kopi Susu Senja."}
+{"instruction": "Halo, Mie Goreng Senja itu apa?", "output": "Mie Goreng Senja adalah menu makanan berat kami. Mie goreng dengan sayuran, telur, dan bakso."}
+{"instruction": "Permisi, Bagaimana cara pesan online? Thanks ya.", "output": "Pesan antar tersedia lewat aplikasi ojek online dalam radius 5 km dari toko, pukul 10.00-21.00."}
+{"instruction": "Min, Rasa Mie Goreng Senja seperti apa? Makasih.", "output": "Mie Goreng Senja adalah menu makanan berat kami. Mie goreng dengan sayuran, telur, dan bakso."}
+{"instruction": "Jelaskan tentang V60 Manual Brew.", "output": "V60 Manual Brew adalah menu kopi kami. Seduhan manual V60 dari biji single origin pilihan barista, rasanya bersih dan aromatik."}
+{"instruction": "Berapa harga Espresso?", "output": "Espresso di Kopi Senja harganya Rp15.000."}
+{"instruction": "Di sini jual Nasi Goreng Kampung nggak?", "output": "Ada, Kak! Nasi Goreng Kampung tersedia di Kopi Senja dengan harga Rp28.000."}
+{"instruction": "Mau tanya, Americano berapaan?", "output": "Americano di Kopi Senja harganya Rp18.000."}
+{"instruction": "Kak, Apa itu Senja Club? Makasih.", "output": "Ada Senja Club, program member gratis. Daftar di kasir, dan setiap pembelian 10 minuman kakak mendapat 1 minuman gratis."}
+{"instruction": "Kak, Ada pilihan susu nabati?", "output": "Minuman berbasis susu kami menggunakan susu sapi. Kakak bisa mengganti dengan susu oat dengan tambahan Rp5.000."}
+{"instruction": "Permisi, Boleh bawa hewan peliharaan? Thanks ya.", "output": "Mohon maaf, saat ini kami belum mengizinkan hewan peliharaan masuk ke area dalam."}
+{"instruction": "Min, Jelaskan tentang Kopi Susu Senja.", "output": "Kopi Susu Senja adalah menu kopi kami. Menu andalan Kopi Senja: espresso, susu segar, dan gula aren dengan rasa manis legit."}
+{"instruction": "Bagaimana cara memesan di tempat? Thanks ya.", "output": "Pesan dan bayar di kasir terlebih dahulu, lalu pesanan akan diantar ke meja kakak."}
+{"instruction": "Halo, Bisa bayar pakai QRIS? Thanks ya.", "output": "Kami menerima tunai, QRIS, dan kartu debit. Kartu kredit belum bisa kami terima."}
+{"instruction": "Halo, Harga Matcha Latte di sini berapa ya?", "output": "Matcha Latte di Kopi Senja harganya Rp26.000."}
+{"instruction": "Ada diskon atau promo apa saja?", "output": "Happy Hour berlaku Senin-Kamis pukul 14.00-17.00 dengan diskon 20% untuk semua minuman kopi."}
+{"instruction": "Rasa V60 Manual Brew seperti apa?", "output": "V60 Manual Brew adalah menu kopi kami. Seduhan manual V60 dari biji single origin pilihan barista, rasanya bersih dan aromatik."}
+{"instruction": "Harga Cappuccino di sini berapa ya?", "output": "Cappuccino di Kopi Senja harganya Rp24.000."}
+{"instruction": "Berapa harga Kopi Susu Senja? Thanks ya.", "output": "Kopi Susu Senja di Kopi Senja harganya Rp22.000."}
+{"instruction": "Minta kontak admin dong. Makasih.", "output": "Kakak bisa menghubungi kami lewat WhatsApp di 0812-0000-1234 atau Instagram @kopisenja.id."}
+{"instruction": "Kak, Pesan lewat ojek online bisa? Thanks ya.", "output": "Pesan antar tersedia lewat aplikasi ojek online dalam radius 5 km dari toko, pukul 10.00-21.00."}
+{"instruction": "Mau tanya, Cokelat Panas berapaan?", "output": "Cokelat Panas di Kopi Senja harganya Rp22.000."}
+{"instruction": "Brownies harganya berapa? Thanks ya.", "output": "Brownies di Kopi Senja harganya Rp20.000."}
+{"instruction": "Min, Bisa ganti susu dengan susu oat? Makasih.", "output": "Minuman berbasis susu kami menggunakan susu sapi. Kakak bisa mengganti dengan susu oat dengan tambahan Rp5.000."}
+{"instruction": "Ada kartu member? Thanks ya.", "output": "Ada Senja Club, program member gratis. Daftar di kasir, dan setiap pembelian 10 minuman kakak mendapat 1 minuman gratis."}
+{"instruction": "Halo, Es Kopi Gula Aren harganya berapa? Makasih.", "output": "Es Kopi Gula Aren di Kopi Senja harganya Rp20.000."}
+{"instruction": "Mau tanya, Kentang Goreng berapaan?", "output": "Kentang Goreng di Kopi Senja harganya Rp17.000."}
+{"instruction": "Kak, Apakah ada Cappuccino?", "output": "Ada, Kak! Cappuccino tersedia di Kopi Senja dengan harga Rp24.000."}
+{"instruction": "Min, Apakah ada Es Kopi Gula Aren?", "output": "Ada, Kak! Es Kopi Gula Aren tersedia di Kopi Senja dengan harga Rp20.000."}
+{"instruction": "Permisi, Ada area merokok?", "output": "Area merokok hanya di teras luar. Area dalam bebas asap rokok."}
+{"instruction": "Cokelat Panas itu apa? Thanks ya.", "output": "Cokelat Panas adalah menu non-kopi kami. Cokelat pekat dengan susu panas dan sedikit krim."}
+{"instruction": "Permisi, Rasa Cafe Latte seperti apa? Makasih.", "output": "Cafe Latte adalah menu kopi kami. Espresso dengan susu steam yang lembut, rasanya creamy."}
+{"instruction": "Apakah ada Cafe Latte?", "output": "Ada, Kak! Cafe Latte tersedia di Kopi Senja dengan harga Rp25.000."}
+{"instruction": "Halo, Menu kopi termurah apa?", "output": "Kopi paling murah di Kopi Senja adalah Espresso seharga Rp15.000."}
+{"instruction": "Kopi Susu Senja itu apa?", "output": "Kopi Susu Senja adalah menu kopi kami. Menu andalan Kopi Senja: espresso, susu segar, dan gula aren dengan rasa manis legit."}
+{"instruction": "Ada menu yang mengandung kacang?", "output": "Brownies mengandung kacang almond, jadi sebaiknya dihindari oleh yang alergi kacang. Minuman berbasis susu mengandung susu sapi. Beri tahu kasir jika ada alergi agar kami bantu pilihkan menu."}
+{"instruction": "Apakah ada Roti Bakar Cokelat Keju?", "output": "Ada, Kak! Roti Bakar Cokelat Keju tersedia di Kopi Senja dengan harga Rp18.000."}
+{"instruction": "Harga Kopi Susu Senja di sini berapa ya?", "output": "Kopi Susu Senja di Kopi Senja harganya Rp22.000."}
+{"instruction": "Tersedia toilet di dalam?", "output": "Tersedia toilet dan musala kecil di dalam toko."}
+{"instruction": "Mau tanya, Nasi Goreng Kampung berapaan?", "output": "Nasi Goreng Kampung di Kopi Senja harganya Rp28.000."}
+{"instruction": "Siapa presiden Indonesia sekarang?", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Hai", "output": "Hai, Kak! Selamat datang di Kopi Senja. Mau tanya menu atau promo hari ini?"}
+{"instruction": "Kak, Minta alamat lengkapnya dong.", "output": "Kopi Senja berada di Jl. Melati No. 12, Kota Bandung, dekat Taman Kota."}
+{"instruction": "Min, Ada area indoor dan outdoor?", "output": "Kopi Senja punya sekitar 40 kursi, terbagi di area dalam ber-AC dan area teras."}
+{"instruction": "Min, Bisa pesan kue ulang tahun?", "output": "Maaf, saya belum punya informasi tentang itu. Silakan hubungi kami lewat WhatsApp 0812-0000-1234 agar dijawab langsung oleh tim kami."}
+{"instruction": "Permisi, Mau tanya, Nasi Goreng Kampung berapaan? Makasih.", "output": "Nasi Goreng Kampung di Kopi Senja harganya Rp28.000."}
+{"instruction": "Selamat pagi", "output": "Selamat pagi, Kak! Selamat datang di Kopi Senja. Ada yang bisa saya bantu?"}
+{"instruction": "Di sini jual Matcha Latte nggak?", "output": "Ada, Kak! Matcha Latte tersedia di Kopi Senja dengan harga Rp26.000."}
+{"instruction": "Ada parkir?", "output": "Parkir motor dan mobil gratis, tetapi kapasitas mobil terbatas, sekitar 6 kendaraan."}
+{"instruction": "Ada kopi kemasan? Thanks ya.", "output": "Kami menjual biji kopi kemasan 200 gram: arabika Gayo Rp85.000 dan robusta Temanggung Rp70.000. Bisa digiling sesuai alat seduh kakak."}
+{"instruction": "Kak, Tersedia stop kontak di meja nggak?", "output": "Tersedia colokan listrik di hampir semua meja, terutama di area dalam dan dekat jendela, jadi nyaman untuk bekerja atau mengerjakan tugas."}
+{"instruction": "Kopi termahal di sini apa?", "output": "Kopi paling mahal di Kopi Senja adalah Caramel Macchiato seharga Rp28.000."}
+{"instruction": "Cokelat Panas harganya berapa?", "output": "Cokelat Panas di Kopi Senja harganya Rp22.000."}
+{"instruction": "Ada ukuran minuman apa saja?", "output": "Minuman tersedia ukuran regular dan large. Ukuran large tambah Rp5.000, kecuali Espresso dan V60 yang hanya tersedia ukuran regular."}
+{"instruction": "Berikan tips investasi saham.", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Permisi, Jelaskan tentang Americano. Thanks ya.", "output": "Americano adalah menu kopi kami. Espresso yang ditambah air panas atau es, rasanya ringan dan bersih."}
+{"instruction": "Jelaskan tentang Matcha Latte.", "output": "Matcha Latte adalah menu non-kopi kami. Matcha dengan susu, bisa disajikan panas atau dingin."}
+{"instruction": "Ada pilihan tanpa susu?", "output": "Untuk pilihan tanpa produk hewani, kakak bisa memilih Espresso, Americano, V60 Manual Brew, atau Es Teh Lemon. Menu lain dengan susu bisa diganti susu oat dengan tambahan Rp5.000."}
+{"instruction": "Menu kopi apa yang tersedia?", "output": "Menu kopi di Kopi Senja: Espresso (Rp15.000), Americano (Rp18.000), Kopi Susu Senja (Rp22.000), Cappuccino (Rp24.000), Cafe Latte (Rp25.000), Caramel Macchiato (Rp28.000), V60 Manual Brew (Rp27.000), Es Kopi Gula Aren (Rp20.000)."}
+{"instruction": "Permisi, Espresso itu apa?", "output": "Espresso adalah menu kopi kami. Espresso murni dari campuran arabika dan robusta, rasanya pekat dan kuat, disajikan single shot."}
+{"instruction": "Bisa beli biji kopi untuk dibawa pulang?", "output": "Kami menjual biji kopi kemasan 200 gram: arabika Gayo Rp85.000 dan robusta Temanggung Rp70.000. Bisa digiling sesuai alat seduh kakak."}
+{"instruction": "Rasa Caramel Macchiato seperti apa?", "output": "Caramel Macchiato adalah menu kopi kami. Latte dengan sirup vanila dan saus karamel di atasnya."}
+{"instruction": "Croissant Butter itu apa?", "output": "Croissant Butter adalah menu makanan ringan kami. Croissant renyah dengan mentega, dipanggang setiap pagi."}
+{"instruction": "Harga Es Kopi Gula Aren di sini berapa ya?", "output": "Es Kopi Gula Aren di Kopi Senja harganya Rp20.000."}
+{"instruction": "Harga Cokelat Panas di sini berapa ya?", "output": "Cokelat Panas di Kopi Senja harganya Rp22.000."}
+{"instruction": "Kak, V60 Manual Brew harganya berapa?", "output": "V60 Manual Brew di Kopi Senja harganya Rp27.000."}
+{"instruction": "Kak, Harga Cappuccino di sini berapa ya?", "output": "Cappuccino di Kopi Senja harganya Rp24.000."}
+{"instruction": "Halo, Apakah ada Matcha Latte? Makasih.", "output": "Ada, Kak! Matcha Latte tersedia di Kopi Senja dengan harga Rp26.000."}
+{"instruction": "Permisi, Berapa jumlah kursi di sini? Makasih.", "output": "Kopi Senja punya sekitar 40 kursi, terbagi di area dalam ber-AC dan area teras."}
+{"instruction": "Kak, Apakah ada Mie Goreng Senja?", "output": "Ada, Kak! Mie Goreng Senja tersedia di Kopi Senja dengan harga Rp26.000."}
+{"instruction": "Jam berapa Kopi Senja buka? Makasih.", "output": "Kopi Senja buka Senin-Jumat pukul 08.00-22.00, Sabtu-Minggu pukul 07.00-23.00, dan hari libur nasional pukul 09.00-21.00."}
+{"instruction": "Ke mana saya harus komplain?", "output": "Jika pesanan salah atau tidak sesuai, beri tahu kasir atau pelayan dan kami akan menggantinya tanpa biaya tambahan."}
+{"instruction": "Menu apa yang mengandung alergen?", "output": "Brownies mengandung kacang almond, jadi sebaiknya dihindari oleh yang alergi kacang. Minuman berbasis susu mengandung susu sapi. Beri tahu kasir jika ada alergi agar kami bantu pilihkan menu."}
+{"instruction": "Di sini jual V60 Manual Brew nggak?", "output": "Ada, Kak! V60 Manual Brew tersedia di Kopi Senja dengan harga Rp27.000."}
+{"instruction": "Kak, Bagaimana cara menghubungi Kopi Senja?", "output": "Kakak bisa menghubungi kami lewat WhatsApp di 0812-0000-1234 atau Instagram @kopisenja.id."}
+{"instruction": "Di sini jual Caramel Macchiato nggak?", "output": "Ada, Kak! Caramel Macchiato tersedia di Kopi Senja dengan harga Rp28.000."}
+{"instruction": "Min, Menu kopi apa yang tersedia?", "output": "Menu kopi di Kopi Senja: Espresso (Rp15.000), Americano (Rp18.000), Kopi Susu Senja (Rp22.000), Cappuccino (Rp24.000), Cafe Latte (Rp25.000), Caramel Macchiato (Rp28.000), V60 Manual Brew (Rp27.000), Es Kopi Gula Aren (Rp20.000)."}
+{"instruction": "Permisi, Berapa harga biji kopi per kemasan? Thanks ya.", "output": "Kami menjual biji kopi kemasan 200 gram: arabika Gayo Rp85.000 dan robusta Temanggung Rp70.000. Bisa digiling sesuai alat seduh kakak."}
+{"instruction": "Di sini jual Cokelat Panas nggak?", "output": "Ada, Kak! Cokelat Panas tersedia di Kopi Senja dengan harga Rp22.000."}
+{"instruction": "V60 Manual Brew harganya berapa?", "output": "V60 Manual Brew di Kopi Senja harganya Rp27.000."}
+{"instruction": "Ada musala?", "output": "Tersedia toilet dan musala kecil di dalam toko."}
+{"instruction": "Mau tanya, Es Kopi Gula Aren berapaan?", "output": "Es Kopi Gula Aren di Kopi Senja harganya Rp20.000."}
+{"instruction": "Di sini jual Es Kopi Gula Aren nggak?", "output": "Ada, Kak! Es Kopi Gula Aren tersedia di Kopi Senja dengan harga Rp20.000."}
+{"instruction": "Kak, Nama dan sandi wifi Kopi Senja apa?", "output": "Ada Wi-Fi gratis untuk pelanggan. Nama jaringannya KopiSenja_Guest dan kata sandinya senja2026."}
+{"instruction": "Halo, Brownies aman untuk alergi kacang? Makasih.", "output": "Brownies mengandung kacang almond, jadi sebaiknya dihindari oleh yang alergi kacang. Minuman berbasis susu mengandung susu sapi. Beri tahu kasir jika ada alergi agar kami bantu pilihkan menu."}
+{"instruction": "Rekomendasi film bagus apa?", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Permisi, Croissant Butter harganya berapa?", "output": "Croissant Butter di Kopi Senja harganya Rp20.000."}
+{"instruction": "Bagaimana cara membuat website? Thanks ya.", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Min, Daftar non-kopi di sini apa aja?", "output": "Menu non-kopi di Kopi Senja: Matcha Latte (Rp26.000), Cokelat Panas (Rp22.000), Es Teh Lemon (Rp15.000)."}
+{"instruction": "Jelaskan tentang Kentang Goreng.", "output": "Kentang Goreng adalah menu makanan ringan kami. Kentang goreng renyah dengan saus sambal atau mayones."}
+{"instruction": "Di sini jual Es Teh Lemon nggak?", "output": "Ada, Kak! Es Teh Lemon tersedia di Kopi Senja dengan harga Rp15.000."}
+{"instruction": "Apa saja menu kopi?", "output": "Menu kopi di Kopi Senja: Espresso (Rp15.000), Americano (Rp18.000), Kopi Susu Senja (Rp22.000), Cappuccino (Rp24.000), Cafe Latte (Rp25.000), Caramel Macchiato (Rp28.000), V60 Manual Brew (Rp27.000), Es Kopi Gula Aren (Rp20.000)."}
+{"instruction": "Menu makanan ringan apa yang tersedia?", "output": "Menu makanan ringan di Kopi Senja: Croissant Butter (Rp20.000), Roti Bakar Cokelat Keju (Rp18.000), Kentang Goreng (Rp17.000), Brownies (Rp20.000)."}
+{"instruction": "Min, Saya vegetarian, menu apa yang cocok? Thanks ya.", "output": "Untuk pilihan tanpa produk hewani, kakak bisa memilih Espresso, Americano, V60 Manual Brew, atau Es Teh Lemon. Menu lain dengan susu bisa diganti susu oat dengan tambahan Rp5.000."}
+{"instruction": "Pesanan saya salah, bagaimana?", "output": "Jika pesanan salah atau tidak sesuai, beri tahu kasir atau pelayan dan kami akan menggantinya tanpa biaya tambahan."}
+{"instruction": "Permisi, Kopi apa yang paling mahal? Makasih.", "output": "Kopi paling mahal di Kopi Senja adalah Caramel Macchiato seharga Rp28.000."}
+{"instruction": "Jelaskan tentang Cokelat Panas.", "output": "Cokelat Panas adalah menu non-kopi kami. Cokelat pekat dengan susu panas dan sedikit krim."}
+{"instruction": "Bisa ganti susu dengan susu oat?", "output": "Minuman berbasis susu kami menggunakan susu sapi. Kakak bisa mengganti dengan susu oat dengan tambahan Rp5.000."}
+{"instruction": "Di sini jual Roti Bakar Cokelat Keju nggak?", "output": "Ada, Kak! Roti Bakar Cokelat Keju tersedia di Kopi Senja dengan harga Rp18.000."}
+{"instruction": "Halo, Berapa harga Es Kopi Gula Aren? Thanks ya.", "output": "Es Kopi Gula Aren di Kopi Senja harganya Rp20.000."}
+{"instruction": "Kak, Cokelat Panas harganya berapa?", "output": "Cokelat Panas di Kopi Senja harganya Rp22.000."}
+{"instruction": "Berapa harga Cappuccino?", "output": "Cappuccino di Kopi Senja harganya Rp24.000."}
+{"instruction": "Jelaskan tentang Espresso.", "output": "Espresso adalah menu kopi kami. Espresso murni dari campuran arabika dan robusta, rasanya pekat dan kuat, disajikan single shot."}
+{"instruction": "Mau tanya, Brownies berapaan?", "output": "Brownies di Kopi Senja harganya Rp20.000."}
+{"instruction": "Apakah ada Nasi Goreng Kampung?", "output": "Ada, Kak! Nasi Goreng Kampung tersedia di Kopi Senja dengan harga Rp28.000."}
+{"instruction": "Halo, Terima pembayaran apa aja di sini?", "output": "Kami menerima tunai, QRIS, dan kartu debit. Kartu kredit belum bisa kami terima."}
+{"instruction": "Harga Nasi Goreng Kampung di sini berapa ya?", "output": "Nasi Goreng Kampung di Kopi Senja harganya Rp28.000."}
+{"instruction": "Reservasi untuk rombongan bisa nggak?", "output": "Reservasi tersedia untuk minimal 6 orang lewat WhatsApp 0812-0000-1234, paling lambat sehari sebelumnya. Untuk kurang dari 6 orang, kami melayani tanpa reservasi sesuai ketersediaan tempat."}
+{"instruction": "Tempatnya luas nggak? Berapa kursinya?", "output": "Kopi Senja punya sekitar 40 kursi, terbagi di area dalam ber-AC dan area teras."}
+{"instruction": "Permisi, Berikan tips investasi saham.", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Permisi, Di sini jual Roti Bakar Cokelat Keju nggak? Makasih.", "output": "Ada, Kak! Roti Bakar Cokelat Keju tersedia di Kopi Senja dengan harga Rp18.000."}
+{"instruction": "Permisi, Jelaskan tentang Es Kopi Gula Aren. Makasih.", "output": "Es Kopi Gula Aren adalah menu kopi kami. Kopi dingin dengan sedikit susu dan gula aren cair, lebih ringan daripada Kopi Susu Senja."}
+{"instruction": "Apakah ada Kopi Susu Senja?", "output": "Ada, Kak! Kopi Susu Senja tersedia di Kopi Senja dengan harga Rp22.000."}
+{"instruction": "Halo, Berapa harga V60 Manual Brew? Thanks ya.", "output": "V60 Manual Brew di Kopi Senja harganya Rp27.000."}
+{"instruction": "Halo, Jelaskan tentang Mie Goreng Senja.", "output": "Mie Goreng Senja adalah menu makanan berat kami. Mie goreng dengan sayuran, telur, dan bakso."}
+{"instruction": "Mau tanya, Espresso berapaan?", "output": "Espresso di Kopi Senja harganya Rp15.000."}
+{"instruction": "Halo, Menu makanan ringan apa yang tersedia? Makasih.", "output": "Menu makanan ringan di Kopi Senja: Croissant Butter (Rp20.000), Roti Bakar Cokelat Keju (Rp18.000), Kentang Goreng (Rp17.000), Brownies (Rp20.000)."}
+{"instruction": "Jelaskan tentang Matcha Latte. Makasih.", "output": "Matcha Latte adalah menu non-kopi kami. Matcha dengan susu, bisa disajikan panas atau dingin."}
+{"instruction": "Apakah menyediakan jasa katering kantor?", "output": "Maaf, saya belum punya informasi tentang itu. Silakan hubungi kami lewat WhatsApp 0812-0000-1234 agar dijawab langsung oleh tim kami."}
+{"instruction": "Apakah ada Matcha Latte?", "output": "Ada, Kak! Matcha Latte tersedia di Kopi Senja dengan harga Rp26.000."}
+{"instruction": "Kak, Ada parkir? Thanks ya.", "output": "Parkir motor dan mobil gratis, tetapi kapasitas mobil terbatas, sekitar 6 kendaraan."}
+{"instruction": "Matcha Latte harganya berapa?", "output": "Matcha Latte di Kopi Senja harganya Rp26.000."}
+{"instruction": "Harga Croissant Butter di sini berapa ya?", "output": "Croissant Butter di Kopi Senja harganya Rp20.000."}
+{"instruction": "Bisa pesan kue ulang tahun?", "output": "Maaf, saya belum punya informasi tentang itu. Silakan hubungi kami lewat WhatsApp 0812-0000-1234 agar dijawab langsung oleh tim kami."}
+{"instruction": "Rasa Nasi Goreng Kampung seperti apa?", "output": "Nasi Goreng Kampung adalah menu makanan berat kami. Nasi goreng bumbu rempah dengan telur dan ayam suwir."}
+{"instruction": "Bagaimana cara mengatasi sakit kepala?", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Harga Es Teh Lemon di sini berapa ya?", "output": "Es Teh Lemon di Kopi Senja harganya Rp15.000."}
+{"instruction": "Berapa harga Mie Goreng Senja?", "output": "Mie Goreng Senja di Kopi Senja harganya Rp26.000."}
+{"instruction": "Halo, Berapa harga Americano?", "output": "Americano di Kopi Senja harganya Rp18.000."}
+{"instruction": "Bagaimana prakiraan cuaca besok?", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Apa ibu kota Prancis? Makasih.", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Saya vegetarian, menu apa yang cocok?", "output": "Untuk pilihan tanpa produk hewani, kakak bisa memilih Espresso, Americano, V60 Manual Brew, atau Es Teh Lemon. Menu lain dengan susu bisa diganti susu oat dengan tambahan Rp5.000."}
+{"instruction": "Lokasi tokonya di mana ya? Makasih.", "output": "Kopi Senja berada di Jl. Melati No. 12, Kota Bandung, dekat Taman Kota."}
+{"instruction": "Daftar makanan berat di sini apa aja? Thanks ya.", "output": "Menu makanan berat di Kopi Senja: Nasi Goreng Kampung (Rp28.000), Mie Goreng Senja (Rp26.000)."}
+{"instruction": "Min, Apakah ada Brownies? Makasih.", "output": "Ada, Kak! Brownies tersedia di Kopi Senja dengan harga Rp20.000."}
+{"instruction": "Terima kasih", "output": "Sama-sama, Kak! Kalau ada yang ingin ditanyakan lagi, silakan. Sampai jumpa di Kopi Senja!"}
+{"instruction": "Mau tanya, Brownies berapaan? Thanks ya.", "output": "Brownies di Kopi Senja harganya Rp20.000."}
+{"instruction": "Apa ibu kota Prancis?", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Permisi, Apakah ada Kopi Susu Senja? Makasih.", "output": "Ada, Kak! Kopi Susu Senja tersedia di Kopi Senja dengan harga Rp22.000."}
+{"instruction": "Rasa Es Kopi Gula Aren seperti apa? Makasih.", "output": "Es Kopi Gula Aren adalah menu kopi kami. Kopi dingin dengan sedikit susu dan gula aren cair, lebih ringan daripada Kopi Susu Senja."}
+{"instruction": "Permisi, Es Teh Lemon harganya berapa? Makasih.", "output": "Es Teh Lemon di Kopi Senja harganya Rp15.000."}
+{"instruction": "Permisi, Mau tanya, Matcha Latte berapaan? Makasih.", "output": "Matcha Latte di Kopi Senja harganya Rp26.000."}
+{"instruction": "Boleh merokok di Kopi Senja?", "output": "Area merokok hanya di teras luar. Area dalam bebas asap rokok."}
+{"instruction": "Bagaimana daftar member?", "output": "Ada Senja Club, program member gratis. Daftar di kasir, dan setiap pembelian 10 minuman kakak mendapat 1 minuman gratis."}
+{"instruction": "Di sini jual Kentang Goreng nggak?", "output": "Ada, Kak! Kentang Goreng tersedia di Kopi Senja dengan harga Rp17.000."}
+{"instruction": "Bagaimana kebijakan jika pesanan keliru?", "output": "Jika pesanan salah atau tidak sesuai, beri tahu kasir atau pelayan dan kami akan menggantinya tanpa biaya tambahan."}
+{"instruction": "Jelaskan tentang Nasi Goreng Kampung.", "output": "Nasi Goreng Kampung adalah menu makanan berat kami. Nasi goreng bumbu rempah dengan telur dan ayam suwir."}
+{"instruction": "Daftar kopi di sini apa aja?", "output": "Menu kopi di Kopi Senja: Espresso (Rp15.000), Americano (Rp18.000), Kopi Susu Senja (Rp22.000), Cappuccino (Rp24.000), Cafe Latte (Rp25.000), Caramel Macchiato (Rp28.000), V60 Manual Brew (Rp27.000), Es Kopi Gula Aren (Rp20.000)."}
+{"instruction": "Minta alamat lengkapnya dong.", "output": "Kopi Senja berada di Jl. Melati No. 12, Kota Bandung, dekat Taman Kota."}
+{"instruction": "Matcha Latte itu apa?", "output": "Matcha Latte adalah menu non-kopi kami. Matcha dengan susu, bisa disajikan panas atau dingin."}
+{"instruction": "Pesan di kasir atau dilayani di meja?", "output": "Pesan dan bayar di kasir terlebih dahulu, lalu pesanan akan diantar ke meja kakak."}
+{"instruction": "Apakah ada Mie Goreng Senja?", "output": "Ada, Kak! Mie Goreng Senja tersedia di Kopi Senja dengan harga Rp26.000."}
+{"instruction": "Ada program loyalitas pelanggan?", "output": "Ada Senja Club, program member gratis. Daftar di kasir, dan setiap pembelian 10 minuman kakak mendapat 1 minuman gratis."}
+{"instruction": "Jelaskan tentang Caramel Macchiato. Makasih.", "output": "Caramel Macchiato adalah menu kopi kami. Latte dengan sirup vanila dan saus karamel di atasnya."}
+{"instruction": "Halo, Apakah ada Kentang Goreng?", "output": "Ada, Kak! Kentang Goreng tersedia di Kopi Senja dengan harga Rp17.000."}
+{"instruction": "Boleh bawa hewan peliharaan?", "output": "Mohon maaf, saat ini kami belum mengizinkan hewan peliharaan masuk ke area dalam."}
+{"instruction": "Ada promo happy hour?", "output": "Happy Hour berlaku Senin-Kamis pukul 14.00-17.00 dengan diskon 20% untuk semua minuman kopi."}
+{"instruction": "Min, Rasa Brownies seperti apa? Makasih.", "output": "Brownies adalah menu makanan ringan kami. Brownies cokelat padat dengan taburan kacang almond."}
+{"instruction": "Metode pembayaran apa saja yang diterima?", "output": "Kami menerima tunai, QRIS, dan kartu debit. Kartu kredit belum bisa kami terima."}
+{"instruction": "Jelaskan tentang Croissant Butter.", "output": "Croissant Butter adalah menu makanan ringan kami. Croissant renyah dengan mentega, dipanggang setiap pagi."}
+{"instruction": "Apakah ada Kentang Goreng?", "output": "Ada, Kak! Kentang Goreng tersedia di Kopi Senja dengan harga Rp17.000."}
+{"instruction": "Min, Cappuccino itu apa? Makasih.", "output": "Cappuccino adalah menu kopi kami. Espresso dengan susu panas dan busa susu yang tebal."}
+{"instruction": "Halo, Rasa Nasi Goreng Kampung seperti apa?", "output": "Nasi Goreng Kampung adalah menu makanan berat kami. Nasi goreng bumbu rempah dengan telur dan ayam suwir."}
+{"instruction": "Makasih ya", "output": "Sama-sama, Kak! Kami tunggu kedatangannya di Kopi Senja."}
+{"instruction": "Espresso itu apa?", "output": "Espresso adalah menu kopi kami. Espresso murni dari campuran arabika dan robusta, rasanya pekat dan kuat, disajikan single shot."}
+{"instruction": "Apakah ada Es Teh Lemon?", "output": "Ada, Kak! Es Teh Lemon tersedia di Kopi Senja dengan harga Rp15.000."}
+{"instruction": "Apakah bisa bayar pakai kartu debit?", "output": "Kami menerima tunai, QRIS, dan kartu debit. Kartu kredit belum bisa kami terima."}
+{"instruction": "Mau tanya, Mie Goreng Senja berapaan?", "output": "Mie Goreng Senja di Kopi Senja harganya Rp26.000."}
+{"instruction": "Permisi, Bayarnya di awal atau di akhir? Thanks ya.", "output": "Pesan dan bayar di kasir terlebih dahulu, lalu pesanan akan diantar ke meja kakak."}
+{"instruction": "Permisi, Apakah ada Croissant Butter? Thanks ya.", "output": "Ada, Kak! Croissant Butter tersedia di Kopi Senja dengan harga Rp20.000."}
+{"instruction": "Bagaimana cara konek ke wifi?", "output": "Ada Wi-Fi gratis untuk pelanggan. Nama jaringannya KopiSenja_Guest dan kata sandinya senja2026."}
+{"instruction": "Tolong terjemahkan kalimat ini ke bahasa Inggris.", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Apa saja menu kopi? Makasih.", "output": "Menu kopi di Kopi Senja: Espresso (Rp15.000), Americano (Rp18.000), Kopi Susu Senja (Rp22.000), Cappuccino (Rp24.000), Cafe Latte (Rp25.000), Caramel Macchiato (Rp28.000), V60 Manual Brew (Rp27.000), Es Kopi Gula Aren (Rp20.000)."}
+{"instruction": "Halo, Di sini jual Es Teh Lemon nggak?", "output": "Ada, Kak! Es Teh Lemon tersedia di Kopi Senja dengan harga Rp15.000."}
+{"instruction": "Americano itu apa?", "output": "Americano adalah menu kopi kami. Espresso yang ditambah air panas atau es, rasanya ringan dan bersih."}
+{"instruction": "Boleh kurangi gula?", "output": "Bisa, Kak. Tingkat kemanisan dapat diatur: normal, less sugar, atau tanpa gula. Sebutkan saja saat memesan."}
+{"instruction": "Kak, Menu makanan berat apa yang tersedia? Makasih.", "output": "Menu makanan berat di Kopi Senja: Nasi Goreng Kampung (Rp28.000), Mie Goreng Senja (Rp26.000)."}
+{"instruction": "Parkir motor gratis?", "output": "Parkir motor dan mobil gratis, tetapi kapasitas mobil terbatas, sekitar 6 kendaraan."}
+{"instruction": "Di sini jual Cappuccino nggak?", "output": "Ada, Kak! Cappuccino tersedia di Kopi Senja dengan harga Rp24.000."}
+{"instruction": "Permisi, Kalau bawa kendaraan parkirnya di mana?", "output": "Parkir motor dan mobil gratis, tetapi kapasitas mobil terbatas, sekitar 6 kendaraan."}
+{"instruction": "Tutup jam berapa?", "output": "Kopi Senja buka Senin-Jumat pukul 08.00-22.00, Sabtu-Minggu pukul 07.00-23.00, dan hari libur nasional pukul 09.00-21.00."}
+{"instruction": "Bagaimana cara booking meja?", "output": "Reservasi tersedia untuk minimal 6 orang lewat WhatsApp 0812-0000-1234, paling lambat sehari sebelumnya. Untuk kurang dari 6 orang, kami melayani tanpa reservasi sesuai ketersediaan tempat."}
+{"instruction": "Cokelat Panas itu apa?", "output": "Cokelat Panas adalah menu non-kopi kami. Cokelat pekat dengan susu panas dan sedikit krim."}
+{"instruction": "Kak, Ukuran large tambah berapa? Makasih.", "output": "Minuman tersedia ukuran regular dan large. Ukuran large tambah Rp5.000, kecuali Espresso dan V60 yang hanya tersedia ukuran regular."}
+{"instruction": "Kopi Senja muat berapa orang? Thanks ya.", "output": "Kopi Senja punya sekitar 40 kursi, terbagi di area dalam ber-AC dan area teras."}
+{"instruction": "Mau tanya, Cappuccino berapaan?", "output": "Cappuccino di Kopi Senja harganya Rp24.000."}
+{"instruction": "Rasa Es Kopi Gula Aren seperti apa?", "output": "Es Kopi Gula Aren adalah menu kopi kami. Kopi dingin dengan sedikit susu dan gula aren cair, lebih ringan daripada Kopi Susu Senja."}
+{"instruction": "Ada Instagram atau kontak yang bisa dihubungi?", "output": "Kakak bisa menghubungi kami lewat WhatsApp di 0812-0000-1234 atau Instagram @kopisenja.id."}
+{"instruction": "Makasih ya Thanks ya.", "output": "Sama-sama, Kak! Kami tunggu kedatangannya di Kopi Senja."}
+{"instruction": "Halo, Reservasi untuk rombongan bisa nggak?", "output": "Reservasi tersedia untuk minimal 6 orang lewat WhatsApp 0812-0000-1234, paling lambat sehari sebelumnya. Untuk kurang dari 6 orang, kami melayani tanpa reservasi sesuai ketersediaan tempat."}
+{"instruction": "Jam operasional toko ini apa?", "output": "Kopi Senja buka Senin-Jumat pukul 08.00-22.00, Sabtu-Minggu pukul 07.00-23.00, dan hari libur nasional pukul 09.00-21.00."}
+{"instruction": "Halo, Kopi Susu Senja itu apa?", "output": "Kopi Susu Senja adalah menu kopi kami. Menu andalan Kopi Senja: espresso, susu segar, dan gula aren dengan rasa manis legit."}
+{"instruction": "Harga V60 Manual Brew di sini berapa ya? Thanks ya.", "output": "V60 Manual Brew di Kopi Senja harganya Rp27.000."}
+{"instruction": "Kapan jam promo berlaku?", "output": "Happy Hour berlaku Senin-Kamis pukul 14.00-17.00 dengan diskon 20% untuk semua minuman kopi."}
+{"instruction": "Rasa Roti Bakar Cokelat Keju seperti apa?", "output": "Roti Bakar Cokelat Keju adalah menu makanan ringan kami. Roti tebal yang dibakar dengan selai cokelat dan parutan keju."}
+{"instruction": "Berapa harga Roti Bakar Cokelat Keju?", "output": "Roti Bakar Cokelat Keju di Kopi Senja harganya Rp18.000."}
+{"instruction": "Cocok buat kerja atau ngerjain tugas?", "output": "Tersedia colokan listrik di hampir semua meja, terutama di area dalam dan dekat jendela, jadi nyaman untuk bekerja atau mengerjakan tugas."}
+{"instruction": "Menu kopi termurah apa?", "output": "Kopi paling murah di Kopi Senja adalah Espresso seharga Rp15.000."}
+{"instruction": "Jelaskan teori relativitas.", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Berapa harga Americano?", "output": "Americano di Kopi Senja harganya Rp18.000."}
+{"instruction": "Kopi apa yang paling mahal?", "output": "Kopi paling mahal di Kopi Senja adalah Caramel Macchiato seharga Rp28.000."}
+{"instruction": "Jelaskan tentang Cappuccino.", "output": "Cappuccino adalah menu kopi kami. Espresso dengan susu panas dan busa susu yang tebal."}
+{"instruction": "Apakah ada Cokelat Panas?", "output": "Ada, Kak! Cokelat Panas tersedia di Kopi Senja dengan harga Rp22.000."}
+{"instruction": "Harga Caramel Macchiato di sini berapa ya?", "output": "Caramel Macchiato di Kopi Senja harganya Rp28.000."}
+{"instruction": "Pesan lewat ojek online bisa?", "output": "Pesan antar tersedia lewat aplikasi ojek online dalam radius 5 km dari toko, pukul 10.00-21.00."}
+{"instruction": "Ada diskon khusus untuk pelajar?", "output": "Maaf, saya belum punya informasi tentang itu. Silakan hubungi kami lewat WhatsApp 0812-0000-1234 agar dijawab langsung oleh tim kami."}
+{"instruction": "Min, Minuman apa yang tidak mengandung produk hewani?", "output": "Untuk pilihan tanpa produk hewani, kakak bisa memilih Espresso, Americano, V60 Manual Brew, atau Es Teh Lemon. Menu lain dengan susu bisa diganti susu oat dengan tambahan Rp5.000."}
+{"instruction": "Min, Kapan jam promo berlaku?", "output": "Happy Hour berlaku Senin-Kamis pukul 14.00-17.00 dengan diskon 20% untuk semua minuman kopi."}
+{"instruction": "Minuman berbasis susu pakai susu apa?", "output": "Minuman berbasis susu kami menggunakan susu sapi. Kakak bisa mengganti dengan susu oat dengan tambahan Rp5.000."}
+{"instruction": "Ada tempat salat?", "output": "Tersedia toilet dan musala kecil di dalam toko."}
+{"instruction": "Permisi, Alamat Kopi Senja di mana? Makasih.", "output": "Kopi Senja berada di Jl. Melati No. 12, Kota Bandung, dekat Taman Kota."}
+{"instruction": "Mau tanya, Caramel Macchiato berapaan?", "output": "Caramel Macchiato di Kopi Senja harganya Rp28.000."}
+{"instruction": "Apakah ada Croissant Butter?", "output": "Ada, Kak! Croissant Butter tersedia di Kopi Senja dengan harga Rp20.000."}
+{"instruction": "Bisa pesan ukuran besar?", "output": "Minuman tersedia ukuran regular dan large. Ukuran large tambah Rp5.000, kecuali Espresso dan V60 yang hanya tersedia ukuran regular."}
+{"instruction": "Permisi, Berapa harga Matcha Latte? Makasih.", "output": "Matcha Latte di Kopi Senja harganya Rp26.000."}
+{"instruction": "Berapa jumlah kursi di sini?", "output": "Kopi Senja punya sekitar 40 kursi, terbagi di area dalam ber-AC dan area teras."}
+{"instruction": "Di sini jual Brownies nggak?", "output": "Ada, Kak! Brownies tersedia di Kopi Senja dengan harga Rp20.000."}
+{"instruction": "Min, Di sini jual V60 Manual Brew nggak? Thanks ya.", "output": "Ada, Kak! V60 Manual Brew tersedia di Kopi Senja dengan harga Rp27.000."}
+{"instruction": "Menu makanan berat apa yang tersedia?", "output": "Menu makanan berat di Kopi Senja: Nasi Goreng Kampung (Rp28.000), Mie Goreng Senja (Rp26.000)."}
+{"instruction": "Rasa Cappuccino seperti apa? Makasih.", "output": "Cappuccino adalah menu kopi kami. Espresso dengan susu panas dan busa susu yang tebal."}
+{"instruction": "Bisa ngecas laptop di sini?", "output": "Tersedia colokan listrik di hampir semua meja, terutama di area dalam dan dekat jendela, jadi nyaman untuk bekerja atau mengerjakan tugas."}
+{"instruction": "Kak, Nasi Goreng Kampung harganya berapa?", "output": "Nasi Goreng Kampung di Kopi Senja harganya Rp28.000."}
+{"instruction": "Permisi, Berapa harga Cafe Latte?", "output": "Cafe Latte di Kopi Senja harganya Rp25.000."}
+{"instruction": "Jelaskan tentang Es Kopi Gula Aren.", "output": "Es Kopi Gula Aren adalah menu kopi kami. Kopi dingin dengan sedikit susu dan gula aren cair, lebih ringan daripada Kopi Susu Senja."}
+{"instruction": "Di sini jual Cafe Latte nggak?", "output": "Ada, Kak! Cafe Latte tersedia di Kopi Senja dengan harga Rp25.000."}
+{"instruction": "Nomor WhatsApp Kopi Senja berapa? Thanks ya.", "output": "Kakak bisa menghubungi kami lewat WhatsApp di 0812-0000-1234 atau Instagram @kopisenja.id."}
+{"instruction": "Rasa Espresso seperti apa?", "output": "Espresso adalah menu kopi kami. Espresso murni dari campuran arabika dan robusta, rasanya pekat dan kuat, disajikan single shot."}
+{"instruction": "Ada lowongan kerja di Kopi Senja?", "output": "Maaf, saya belum punya informasi tentang itu. Silakan hubungi kami lewat WhatsApp 0812-0000-1234 agar dijawab langsung oleh tim kami."}
+{"instruction": "Mau tanya, V60 Manual Brew berapaan?", "output": "V60 Manual Brew di Kopi Senja harganya Rp27.000."}
+{"instruction": "Apakah ada Es Kopi Gula Aren?", "output": "Ada, Kak! Es Kopi Gula Aren tersedia di Kopi Senja dengan harga Rp20.000."}
+{"instruction": "Americano harganya berapa?", "output": "Americano di Kopi Senja harganya Rp18.000."}
+{"instruction": "Saya alergi kacang, menu mana yang harus dihindari?", "output": "Brownies mengandung kacang almond, jadi sebaiknya dihindari oleh yang alergi kacang. Minuman berbasis susu mengandung susu sapi. Beri tahu kasir jika ada alergi agar kami bantu pilihkan menu."}
+{"instruction": "Halo, Mau tanya, Americano berapaan? Makasih.", "output": "Americano di Kopi Senja harganya Rp18.000."}
+{"instruction": "Permisi, Ada Wi-Fi gratis tidak?", "output": "Ada Wi-Fi gratis untuk pelanggan. Nama jaringannya KopiSenja_Guest dan kata sandinya senja2026."}
+{"instruction": "Halo, Ada lowongan kerja di Kopi Senja? Thanks ya.", "output": "Maaf, saya belum punya informasi tentang itu. Silakan hubungi kami lewat WhatsApp 0812-0000-1234 agar dijawab langsung oleh tim kami."}
+{"instruction": "Mau tanya, Kopi Susu Senja berapaan?", "output": "Kopi Susu Senja di Kopi Senja harganya Rp22.000."}
+{"instruction": "Ada Wi-Fi gratis tidak?", "output": "Ada Wi-Fi gratis untuk pelanggan. Nama jaringannya KopiSenja_Guest dan kata sandinya senja2026."}
+{"instruction": "Es Kopi Gula Aren harganya berapa?", "output": "Es Kopi Gula Aren di Kopi Senja harganya Rp20.000."}
+{"instruction": "Croissant Butter harganya berapa?", "output": "Croissant Butter di Kopi Senja harganya Rp20.000."}
+{"instruction": "Apakah ada Americano?", "output": "Ada, Kak! Americano tersedia di Kopi Senja dengan harga Rp18.000."}
+{"instruction": "Permisi, Daftar kopi di sini apa aja? Makasih.", "output": "Menu kopi di Kopi Senja: Espresso (Rp15.000), Americano (Rp18.000), Kopi Susu Senja (Rp22.000), Cappuccino (Rp24.000), Cafe Latte (Rp25.000), Caramel Macchiato (Rp28.000), V60 Manual Brew (Rp27.000), Es Kopi Gula Aren (Rp20.000)."}
+{"instruction": "Permisi, Minuman berbasis susu pakai susu apa? Thanks ya.", "output": "Minuman berbasis susu kami menggunakan susu sapi. Kakak bisa mengganti dengan susu oat dengan tambahan Rp5.000."}
+{"instruction": "Halo, Jelaskan tentang Espresso. Thanks ya.", "output": "Espresso adalah menu kopi kami. Espresso murni dari campuran arabika dan robusta, rasanya pekat dan kuat, disajikan single shot."}
+{"instruction": "Berapa harga Nasi Goreng Kampung?", "output": "Nasi Goreng Kampung di Kopi Senja harganya Rp28.000."}
+{"instruction": "Rasa Kopi Susu Senja seperti apa?", "output": "Kopi Susu Senja adalah menu kopi kami. Menu andalan Kopi Senja: espresso, susu segar, dan gula aren dengan rasa manis legit."}
+{"instruction": "Berapa harga biji kopi per kemasan?", "output": "Kami menjual biji kopi kemasan 200 gram: arabika Gayo Rp85.000 dan robusta Temanggung Rp70.000. Bisa digiling sesuai alat seduh kakak."}
+{"instruction": "Min, Di sini jual Es Kopi Gula Aren nggak?", "output": "Ada, Kak! Es Kopi Gula Aren tersedia di Kopi Senja dengan harga Rp20.000."}
+{"instruction": "Kentang Goreng itu apa?", "output": "Kentang Goreng adalah menu makanan ringan kami. Kentang goreng renyah dengan saus sambal atau mayones."}
+{"instruction": "Ada kopi kemasan?", "output": "Kami menjual biji kopi kemasan 200 gram: arabika Gayo Rp85.000 dan robusta Temanggung Rp70.000. Bisa digiling sesuai alat seduh kakak."}
+{"instruction": "Halo, Terima kasih Thanks ya.", "output": "Sama-sama, Kak! Kalau ada yang ingin ditanyakan lagi, silakan. Sampai jumpa di Kopi Senja!"}
+{"instruction": "Permisi, Ada menu yang mengandung kacang? Makasih.", "output": "Brownies mengandung kacang almond, jadi sebaiknya dihindari oleh yang alergi kacang. Minuman berbasis susu mengandung susu sapi. Beri tahu kasir jika ada alergi agar kami bantu pilihkan menu."}
+{"instruction": "Rasa Matcha Latte seperti apa?", "output": "Matcha Latte adalah menu non-kopi kami. Matcha dengan susu, bisa disajikan panas atau dingin."}
+{"instruction": "Berapa hasil 25 dikali 12? Makasih.", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Permisi, Fasilitas apa saja yang ada?", "output": "Tersedia toilet dan musala kecil di dalam toko."}
+{"instruction": "Brownies aman untuk alergi kacang?", "output": "Brownies mengandung kacang almond, jadi sebaiknya dihindari oleh yang alergi kacang. Minuman berbasis susu mengandung susu sapi. Beri tahu kasir jika ada alergi agar kami bantu pilihkan menu."}
+{"instruction": "Rasa Es Teh Lemon seperti apa?", "output": "Es Teh Lemon adalah menu non-kopi kami. Teh dingin dengan perasan lemon segar."}
+{"instruction": "Berapa hasil 25 dikali 12?", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Jelaskan tentang Brownies.", "output": "Brownies adalah menu makanan ringan kami. Brownies cokelat padat dengan taburan kacang almond."}
+{"instruction": "Apakah ada V60 Manual Brew?", "output": "Ada, Kak! V60 Manual Brew tersedia di Kopi Senja dengan harga Rp27.000."}
+{"instruction": "Min, Harga Es Teh Lemon di sini berapa ya? Makasih.", "output": "Es Teh Lemon di Kopi Senja harganya Rp15.000."}
+{"instruction": "Roti Bakar Cokelat Keju harganya berapa?", "output": "Roti Bakar Cokelat Keju di Kopi Senja harganya Rp18.000."}
+{"instruction": "Halo, Matcha Latte harganya berapa?", "output": "Matcha Latte di Kopi Senja harganya Rp26.000."}
+{"instruction": "Kak, Rasa Americano seperti apa? Makasih.", "output": "Americano adalah menu kopi kami. Espresso yang ditambah air panas atau es, rasanya ringan dan bersih."}
+{"instruction": "Permisi, Apakah ada Caramel Macchiato? Makasih.", "output": "Ada, Kak! Caramel Macchiato tersedia di Kopi Senja dengan harga Rp28.000."}
+{"instruction": "Apakah ada Brownies?", "output": "Ada, Kak! Brownies tersedia di Kopi Senja dengan harga Rp20.000."}
+{"instruction": "Status halal makanannya bagaimana?", "output": "Seluruh menu kami halal dan tidak mengandung alkohol maupun babi."}
+{"instruction": "Mau tanya, Cafe Latte berapaan?", "output": "Cafe Latte di Kopi Senja harganya Rp25.000."}
+{"instruction": "Rasa Kentang Goreng seperti apa?", "output": "Kentang Goreng adalah menu makanan ringan kami. Kentang goreng renyah dengan saus sambal atau mayones."}
+{"instruction": "Terima pembayaran apa aja di sini?", "output": "Kami menerima tunai, QRIS, dan kartu debit. Kartu kredit belum bisa kami terima."}
+{"instruction": "Halo, Rasa Kopi Susu Senja seperti apa? Makasih.", "output": "Kopi Susu Senja adalah menu kopi kami. Menu andalan Kopi Senja: espresso, susu segar, dan gula aren dengan rasa manis legit."}
+{"instruction": "Ceritakan lelucon dong.", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Permisi, Ada opsi tanpa gula? Thanks ya.", "output": "Bisa, Kak. Tingkat kemanisan dapat diatur: normal, less sugar, atau tanpa gula. Sebutkan saja saat memesan."}
+{"instruction": "Di sini jual Americano nggak?", "output": "Ada, Kak! Americano tersedia di Kopi Senja dengan harga Rp18.000."}
+{"instruction": "Berapa harga Matcha Latte?", "output": "Matcha Latte di Kopi Senja harganya Rp26.000."}
+{"instruction": "Halo", "output": "Halo, Kak! Selamat datang di Kopi Senja. Ada yang bisa saya bantu soal menu, harga, atau jam buka?"}
+{"instruction": "Min, Mau tanya, Es Teh Lemon berapaan? Thanks ya.", "output": "Es Teh Lemon di Kopi Senja harganya Rp15.000."}
+{"instruction": "Permisi, Bisa pesan antar? Makasih.", "output": "Pesan antar tersedia lewat aplikasi ojek online dalam radius 5 km dari toko, pukul 10.00-21.00."}
+{"instruction": "Tersedia stop kontak di meja nggak?", "output": "Tersedia colokan listrik di hampir semua meja, terutama di area dalam dan dekat jendela, jadi nyaman untuk bekerja atau mengerjakan tugas."}
+{"instruction": "Bisa atur tingkat manis?", "output": "Bisa, Kak. Tingkat kemanisan dapat diatur: normal, less sugar, atau tanpa gula. Sebutkan saja saat memesan."}
+{"instruction": "Berapa harga Kopi Susu Senja?", "output": "Kopi Susu Senja di Kopi Senja harganya Rp22.000."}
+{"instruction": "Permisi, Bagaimana prakiraan cuaca besok?", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Halo, Ada musala? Thanks ya.", "output": "Tersedia toilet dan musala kecil di dalam toko."}
+{"instruction": "Menu non-kopi apa yang tersedia?", "output": "Menu non-kopi di Kopi Senja: Matcha Latte (Rp26.000), Cokelat Panas (Rp22.000), Es Teh Lemon (Rp15.000)."}
+{"instruction": "Berapa harga Brownies?", "output": "Brownies di Kopi Senja harganya Rp20.000."}
+{"instruction": "Kak, Rekomendasi film bagus apa? Thanks ya.", "output": "Maaf, Kak, saya hanya bisa membantu seputar Kopi Senja, seperti menu, harga, jam buka, dan promo. Ada yang ingin ditanyakan soal itu?"}
+{"instruction": "Brownies harganya berapa?", "output": "Brownies di Kopi Senja harganya Rp20.000."}
+{"instruction": "Ada area merokok?", "output": "Area merokok hanya di teras luar. Area dalam bebas asap rokok."}
+{"instruction": "Min, Bisa atur tingkat manis?", "output": "Bisa, Kak. Tingkat kemanisan dapat diatur: normal, less sugar, atau tanpa gula. Sebutkan saja saat memesan."}
+{"instruction": "Kapan kalian buka dan tutup?", "output": "Kopi Senja buka Senin-Jumat pukul 08.00-22.00, Sabtu-Minggu pukul 07.00-23.00, dan hari libur nasional pukul 09.00-21.00."}
+{"instruction": "Ada area indoor dan outdoor?", "output": "Kopi Senja punya sekitar 40 kursi, terbagi di area dalam ber-AC dan area teras."}
