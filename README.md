@@ -2,7 +2,7 @@
 
 Prototype chatbot toko kopi fiktif. Alur: Teks → Qwen2.5-1.5B-Instruct (+ adapter LoRA) → Teks.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/irvy002/chatbot-kopi-senja-qwen   irvy002/blob/main/Chatbot_Kopi_Senja_Qwen_QLoRA.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/irvy002/chatbot-kopi-senja-qwen/blob/main/Chatbot_Kopi_Senja_Qwen_QLoRA.ipynb)
 
 ## Metode
 - Model dasar: Qwen2.5-1.5B-Instruct (4-bit), fine-tuning QLoRA (r=16, 5 epoch)
